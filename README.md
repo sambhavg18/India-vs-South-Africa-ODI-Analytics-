@@ -4,7 +4,7 @@ A Power BI dashboard analyzing the **complete all-time head-to-head ODI record**
 
 ---
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 
 | Page | Description |
 |------|-------------|
@@ -14,7 +14,7 @@ A Power BI dashboard analyzing the **complete all-time head-to-head ODI record**
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
     ind-vs-sa-odi-dashboard/
     │
@@ -33,7 +33,7 @@ A Power BI dashboard analyzing the **complete all-time head-to-head ODI record**
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 | Tool | Purpose |
 |------|---------|

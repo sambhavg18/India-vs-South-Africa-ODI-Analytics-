@@ -1,4 +1,4 @@
-# 🏏 India vs South Africa — ODI Analytics Dashboard
+# India vs South Africa — ODI Analytics Dashboard
 
 A Power BI dashboard analyzing the **complete all-time head-to-head ODI record** between India and South Africa across batting, bowling, and fielding disciplines. Data sourced directly from [ESPN Cricinfo's Statsguru](https://stats.espncricinfo.com).
 

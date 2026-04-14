@@ -15,20 +15,21 @@ A Power BI dashboard analyzing the **complete all-time head-to-head ODI record**
 ---
 
 ## 🗂️ Repository Structure
-ind-vs-sa-odi-dashboard/
-│
-├── dashboard/
-│   └── IND_SA_ODI_HeadToHead_Dashboard.pbix
-│
-├── screenshots/
-│   ├── Batting_Data.png
-│   ├── Bowling_Data.png
-│   └── Fielding_Data.png
-│
-├── data/
-│   └── source_links.md
-│
-└── README.md
+
+    ind-vs-sa-odi-dashboard/
+    │
+    ├── dashboard/
+    │   └── IND_SA_ODI_HeadToHead_Dashboard.pbix
+    │
+    ├── screenshots/
+    │   ├── Batting_Data.png
+    │   ├── Bowling_Data.png
+    │   └── Fielding_Data.png
+    │
+    ├── data/
+    │   └── source_links.md
+    │
+    └── README.md
 
 ---
 

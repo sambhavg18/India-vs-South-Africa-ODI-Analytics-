@@ -1,6 +1,6 @@
 # India vs South Africa — ODI Analytics Dashboard
 
-A Power BI dashboard analyzing the **complete all-time head-to-head ODI record** between India and South Africa across batting, bowling, and fielding disciplines. Data sourced directly from [ESPN Cricinfo's Statsguru](https://stats.espncricinfo.com).
+A Power BI dashboard analyzing the **complete all-time head-to-head ODI record** between India and South Africa across batting, bowling, and fielding disciplines. Data sourced directly from ESPN Cricinfo's Statsguru
 
 ---
 
@@ -41,5 +41,12 @@ A Power BI dashboard analyzing the **complete all-time head-to-head ODI record**
 | **Power BI Web Connector** | Extracting multi-page tabular data from ESPN Cricinfo |
 | **Power Query** | Data consolidation and transformation |
 
+## Why Web Connector?
+
+Most cricket analytics projects rely on manually downloaded CSV files — a static snapshot that goes stale after every new match.
+
+This dashboard connects directly to ESPN Cricinfo's Statsguru via Power BI's Web Connector, so hitting Refresh automatically pulls the latest data with no manual work. There is no intermediate file to manage, all 9 pages across batting, bowling, and fielding are consolidated in one go, and replicating this for any other bilateral series is as simple as changing the team values in the URL.
+
+This makes the dashboard a **live analytics tool** rather than a static report.
 ---
 
